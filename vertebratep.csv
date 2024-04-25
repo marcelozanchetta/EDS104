@@ -1,0 +1,16 @@
+Nome,Corpo Quente,Parto,Aquatico,Aereo,Pernas,Hiberna,Classe
+Humano,1,1,0,0,1,0,mamíferos
+Python,0,0,0,0,0,1,répteis
+Salmão,0,0,1,0,0,0,peixes
+Baleia,1,1,1,0,0,0,mamíferos
+Rã,0,0,1,0,1,1,anfíbios
+Komodo,0,0,0,0,1,0,répteis
+Morcego,1,1,0,1,1,1,mamíferos
+Pombo,1,0,0,1,1,0,aves
+Gato,1,1,0,0,1,0,mamíferos
+Tubarão,0,1,1,0,0,0,peixes
+Tartaruga,0,0,1,0,1,0,répteis
+Pinguim,1,0,1,0,1,0,aves
+Porco-espinho,1,1,0,0,1,1,mamíferos
+Enguia,0,0,1,0,0,0,peixes
+Salamandra,0,0,1,0,1,1,anfíbios
